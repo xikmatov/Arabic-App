@@ -1,0 +1,2104 @@
+<resources>
+    <string name="app_name">Arabic</string>
+    <string name="score">Score 0/20</string>
+    <string name="question_number">1/20 Question</string>
+
+
+    <string name="question1_A">Men </string>
+    <string name="question1_B">Seniki</string>
+    <string name="question1_C">U</string>
+    <string name="question1_D">Biz</string>
+    <string name="answer_1">Seniki</string>
+
+
+    <string name="question_2A">Seniki</string>
+    <string name="question_2B">Yagona</string>
+    <string name="question_2C">Ular</string>
+    <string name="question_2D">Mening</string>
+    <string name="answer_2">Ular</string>
+
+
+    <string name="question_3A"> Seniki</string>
+    <string name="question_3B">Siz ikkalangiz kabi</string>
+    <string name="question_3C">Osha ikkitasi</string>
+    <string name="question_3D">U</string>
+    <string name="answer_3">U</string>
+
+    <string name="question_4A">Sizning</string>
+    <string name="question_4B">Ularning</string>
+    <string name="question_4C">Bizning</string>
+    <string name="question_4D">Seniki</string>
+    <string name="answer_4">Bizning</string>
+
+
+    <string name="question5_A">Men </string>
+    <string name="question5_B">Seniki</string>
+    <string name="question5_C">U</string>
+    <string name="question5_D">Biz</string>
+    <string name="answer_5">Seniki</string>
+
+    <string name="question_6A"> Men</string>
+    <string name="question_6B">Siz ikkalangiz kabi</string>
+    <string name="question_6C">Osha ikkitasi</string>
+    <string name="question_6D">Mening</string>
+    <string name="answer_6">Mening</string>
+
+    <string name="question_7A">Seniki</string>
+    <string name="question_7B">Yagona</string>
+    <string name="question_7C">Ular</string>
+    <string name="question_7D">Mening</string>
+    <string name="answer_7">Seniki</string>
+
+    <string name="question8_A">Men </string>
+    <string name="question8_B">Seniki</string>
+    <string name="question8_C">Ular</string>
+    <string name="question8_D">Biz</string>
+    <string name="answer_8">Ular</string>
+
+
+    <string name="question9_A">Uning </string>
+    <string name="question9_B">Sen</string>
+    <string name="question9_C">Ular</string>
+    <string name="question9_D">Osha ikkitasi</string>
+    <string name="answer_9">Uning</string>
+
+    <string name="question10_A">Uning </string>
+    <string name="question10_B">Sen</string>
+    <string name="question10_C">Siz ikkalangiz ham</string>
+    <string name="question10_D">Osha ikkitasi</string>
+    <string name="answer_10">Siz ikkalangiz ham</string>
+
+
+    <string name="question11_A">Osha ikkitasi </string>
+    <string name="question11_B">Seniki</string>
+    <string name="question11_C">U</string>
+    <string name="question11_D">Biz</string>
+    <string name="answer_11">Osha ikkitasi </string>
+
+
+    <string name="question_12A">Seniki</string>
+    <string name="question_12B">Yagona</string>
+    <string name="question_12C">U</string>
+    <string name="question_12D">Mening</string>
+    <string name="answer_12">U</string>
+
+
+    <string name="question_13A"> Seniki</string>
+    <string name="question_13B">Siz ikkalangiz kabi</string>
+    <string name="question_13C">Osha ikkitasi</string>
+    <string name="question_13D">Biz</string>
+    <string name="answer_13">Biz</string>
+
+    <string name="question_14A">Sizning</string>
+    <string name="question_14B">Ularning</string>
+    <string name="question_14C">Bizning</string>
+    <string name="question_14D">Men</string>
+    <string name="answer_14">Men</string>
+
+
+    <string name="question15_A">Men </string>
+    <string name="question15_B">Siz</string>
+    <string name="question15_C">U</string>
+    <string name="question15_D">Biz</string>
+    <string name="answer_15">Siz</string>
+
+    <string name="question_16A"> Sen</string>
+    <string name="question_16B">Siz ikkalangiz kabi</string>
+    <string name="question_16C">Osha ikkitasi</string>
+    <string name="question_16D">MEning</string>
+    <string name="answer_16">Sen</string>
+
+    <string name="question_17A">Seniki</string>
+    <string name="question_17B">Yagona</string>
+    <string name="question_17C">Ular</string>
+    <string name="question_17D">Mening</string>
+    <string name="answer_17">Ular</string>
+
+    <string name="question18_A">Men </string>
+    <string name="question18_B">Seniki</string>
+    <string name="question18_C">Ular</string>
+    <string name="question18_D">U</string>
+    <string name="answer_18">U</string>
+
+
+    <string name="question19_A">Uning </string>
+    <string name="question19_B">Sen</string>
+    <string name="question19_C">Ular</string>
+    <string name="question19_D">Osha ikkitasi</string>
+    <string name="answer_19">Sen</string>
+
+    <string name="question20_A">Uning </string>
+    <string name="question20_B">Ular</string>
+    <string name="question20_C">Siz ikkalangiz ham</string>
+    <string name="question20_D">Osha ikkitasi</string>
+    <string name="answer_20">Ular</string>
+
+    <string name="question21_A">Kim </string>
+    <string name="question21_B">Qachon</string>
+    <string name="question21_C">Nima</string>
+    <string name="question21_D">Biz</string>
+    <string name="answer_21">Qachon</string>
+
+
+    <string name="question_22A">Kim</string>
+    <string name="question_22B">Nimaga</string>
+    <string name="question_22C">Ular</string>
+    <string name="question_22D">Yaqin</string>
+    <string name="answer_22">Kim</string>
+
+
+    <string name="question_23A"> Qachon(K.z)</string>
+    <string name="question_23B">Siz ikkalangiz kabi</string>
+    <string name="question_23C">Nima</string>
+    <string name="question_23D">...dan</string>
+    <string name="answer_23">Nima</string>
+
+    <string name="question_24A">Nechta</string>
+    <string name="question_24B">Qaysi</string>
+    <string name="question_24C">Kim</string>
+    <string name="question_24D">Kabi</string>
+    <string name="answer_24">Kabi</string>
+
+
+    <string name="question25_A">Qayerda </string>
+    <string name="question25_B">Shundaymi</string>
+    <string name="question25_C">Ularning</string>
+    <string name="question25_D">Biz</string>
+    <string name="answer_25">Qayerda</string>
+
+    <string name="question_26A"> Nechta</string>
+    <string name="question_26B">Siz ikkalangiz kabi</string>
+    <string name="question_26C">Nima</string>
+    <string name="question_26D">MEning</string>
+    <string name="answer_26">Nima</string>
+
+    <string name="question_27A">Agar yoq bolsa</string>
+    <string name="question_27B">Yagona</string>
+    <string name="question_27C">Ular</string>
+    <string name="question_27D">Shundaymi</string>
+    <string name="answer_27">Shundaymi</string>
+
+    <string name="questio28_A">Nechta </string>
+    <string name="question28_B">Seniki</string>
+    <string name="question28_C">Qaysi</string>
+    <string name="question28_D">Biz</string>
+    <string name="answer_28">Qaysi</string>
+
+
+    <string name="question29_A">Nimaga</string>
+    <string name="question29_B">Sen</string>
+    <string name="question29_C">Kim</string>
+    <string name="question29_D">Osha ikkitasi</string>
+    <string name="answer_29">Nimaga</string>
+
+    <string name="question30_A">Uning </string>
+    <string name="question30_B">Agar yoq bolsa</string>
+    <string name="question30_C">Siz ikkalangiz ham</string>
+    <string name="question30_D">Osha ikkitasi</string>
+    <string name="answer_30">Agar yoq bolsa</string>
+
+
+    <string name="question31_A">Osha ikkitasi </string>
+    <string name="question31_B">Seniki</string>
+    <string name="question31_C">Oldin</string>
+    <string name="question31_D">Biz</string>
+    <string name="answer_31">Oldin </string>
+
+
+    <string name="question_32A">Kim</string>
+    <string name="question_32B">Nimaga</string>
+    <string name="question_32C">Keyin</string>
+    <string name="question_32D">Yaqin</string>
+    <string name="answer_32">Keyin</string>
+
+
+    <string name="question_33A"> Vaqtida</string>
+    <string name="question_33B">Siz ikkalangiz kabi</string>
+    <string name="question_33C">Nima</string>
+    <string name="question_33D">...dan</string>
+    <string name="answer_33">Vaqtida</string>
+
+    <string name="question_34A">Nechta</string>
+    <string name="question_34B">Qaysi</string>
+    <string name="question_34C">Shunday qilip</string>
+    <string name="question_34D">Kabi</string>
+    <string name="answer_34">Shunday qilip</string>
+
+
+    <string name="question_35A"> Sen</string>
+    <string name="question_35B">Siz ikkalangiz kabi</string>
+    <string name="question_35C">Osha ikkitasi</string>
+    <string name="question_35D">MEning</string>
+    <string name="answer_35">Sen</string>
+
+    <string name="question_36A">Seniki</string>
+    <string name="question_36B">Yagona</string>
+    <string name="question_36C">Ular</string>
+    <string name="question_36D">Mening</string>
+    <string name="answer_36">Ular</string>
+
+    <string name="question37_A">Men </string>
+    <string name="question37_B">Seniki</string>
+    <string name="question37_C">Ular</string>
+    <string name="question37_D">U</string>
+    <string name="answer_37">U</string>
+
+
+    <string name="question38_A">Men </string>
+    <string name="question38_B">Seniki</string>
+    <string name="question38_C">U</string>
+    <string name="question38_D">Biz</string>
+    <string name="answer_38">Seniki</string>
+
+
+    <string name="question_39A">Seniki</string>
+    <string name="question_39B">Yagona</string>
+    <string name="question_39C">Ular</string>
+    <string name="question_39D">Mening</string>
+    <string name="answer_39">Ular</string>
+
+    <string name="question40_A">Uning </string>
+    <string name="question40_B">Agar yoq bolsa</string>
+    <string name="question40_C">Nechta</string>
+    <string name="question40_D">Osha ikkitasi</string>
+    <string name="answer_40">Nechta</string>
+
+    <string name="question41_A">Bir joyda </string>
+    <string name="question41_B">...egassi</string>
+    <string name="question41_C">Egasi</string>
+    <string name="question41_D">Qarindoshlar</string>
+    <string name="answer_41">Bir joyda</string>
+
+
+    <string name="question_42A">Oxshashlik</string>
+    <string name="question_42B">Nimaga</string>
+    <string name="question_42C">Ammo</string>
+    <string name="question_42D">Keyinchalik</string>
+    <string name="answer_42">Keyinchalik</string>
+
+
+    <string name="question_43A"> Qachon(K.z)</string>
+    <string name="question_43B">Siz ikkalangiz kabi</string>
+    <string name="question_43C">Ammo</string>
+    <string name="question_43D">...dan</string>
+    <string name="answer_43">Ammo</string>
+
+    <string name="question_44A">Nechta</string>
+    <string name="question_44B">Nimaga</string>
+    <string name="question_44C">Kim</string>
+    <string name="question_44D">Qilmaslik uchun..</string>
+    <string name="answer_44">Qilmaslik uchun..</string>
+
+
+    <string name="question45_A">Egasi </string>
+    <string name="question45_B">Shundaymi</string>
+    <string name="question45_C">Ularning</string>
+    <string name="question45_D">Biz</string>
+    <string name="answer_45">Egasi</string>
+
+    <string name="question_46A"> Nechta</string>
+    <string name="question_46B">Siz ikkalangiz kabi</string>
+    <string name="question_46C">Nima</string>
+    <string name="question_46D">MEning</string>
+    <string name="answer_46">Nima</string>
+
+    <string name="question_47A">Agar yoq bolsa</string>
+    <string name="question_47B">Yagona</string>
+    <string name="question_47C">Ular</string>
+    <string name="question_47D">Shundaymi</string>
+    <string name="answer_47">Shundaymi</string>
+
+    <string name="question48_A">..egasi </string>
+    <string name="question48_B">Seniki</string>
+    <string name="question48_C">YAgona</string>
+    <string name="question48_D">Biz</string>
+    <string name="answer_48">..egasi</string>
+
+
+    <string name="question49_A">Yomonlik</string>
+    <string name="question49_B">Sen</string>
+    <string name="question49_C">Odamlar egalari</string>
+    <string name="question49_D">Osha ikkitasi</string>
+    <string name="answer_49">Odamlar egalari</string>
+
+    <string name="question50_A">Uning </string>
+    <string name="question50_B">Agar yoq bolsa</string>
+    <string name="question50_C">Siz ikkalangiz ham</string>
+    <string name="question50_D">Osha ikkitasi</string>
+    <string name="answer_50">Agar yoq bolsa</string>
+
+
+    <string name="question51_A">Qarindoshlar </string>
+    <string name="question51_B">Seniki</string>
+    <string name="question51_C">Kim</string>
+    <string name="question51_D">Biz</string>
+    <string name="answer_51">Qarindoshlar </string>
+
+
+    <string name="question_52A">Juda chiroyli</string>
+    <string name="question_52B">Yagona</string>
+    <string name="question_52C">Egasi</string>
+    <string name="question_52D">Oiladagi qarindoshlar</string>
+    <string name="answer_52">Oiladagi qarindoshlar</string>
+
+
+    <string name="question_53A"> Seniki</string>
+    <string name="question_53B">Qanday chiroyli</string>
+    <string name="question_53C">Osha ikkitasi</string>
+    <string name="question_53D">Biz</string>
+    <string name="answer_53">Qanday chiroyli</string>
+
+    <string name="question_54A">Qanday yomon</string>
+    <string name="question_54B">Ularning</string>
+    <string name="question_54C">Bizning</string>
+    <string name="question_54D">Men</string>
+    <string name="answer_54">Qanday yomon</string>
+
+
+    <string name="question55_A">Egasi </string>
+    <string name="question55_B">Siz</string>
+    <string name="question55_C">Emas..</string>
+    <string name="question55_D">Yomonlik</string>
+    <string name="answer_55">Yomonlik</string>
+
+    <string name="question_56A"> Sen</string>
+    <string name="question_56B">Siz ikkalangiz kabi</string>
+    <string name="question_56C">Shunga oxshash narsa</string>
+    <string name="question_56D">MEning</string>
+    <string name="answer_56">Shunga oxshash narsa</string>
+
+    <string name="question_57A">Emas..</string>
+    <string name="question_57B">Yagona</string>
+    <string name="question_57C">Ular</string>
+    <string name="question_57D">Mening</string>
+    <string name="answer_57">Emas..</string>
+
+    <string name="question58_A">Yagona </string>
+    <string name="question58_B">Seniki</string>
+    <string name="question58_C">Oxshashlik</string>
+    <string name="question58_D">U</string>
+    <string name="answer_58">Oxshashlik</string>
+
+
+    <string name="question59_A">Uning </string>
+    <string name="question59_B">oxshashliklar</string>
+    <string name="question59_C">Ular</string>
+    <string name="question59_D">Osha ikkitasi</string>
+    <string name="answer_59">oxshashliklar</string>
+
+    <string name="question60_A">Uning </string>
+    <string name="question60_B">Ular</string>
+    <string name="question60_C">ichida</string>
+    <string name="question60_D">Osha ikkitasi</string>
+    <string name="answer_60">ichida</string>
+
+
+    <string name="question61_A">kimdir </string>
+    <string name="question61_B">...yilning</string>
+    <string name="question61_C">uchun</string>
+    <string name="question61_D">biz</string>
+    <string name="answer_61">kimdir </string>
+
+
+    <string name="question_62A">kim</string>
+    <string name="question_62B">nimaga</string>
+    <string name="question_62C">keyin</string>
+    <string name="question_62D">..yilda</string>
+    <string name="answer_62">..yilda</string>
+
+
+    <string name="question_63A"> vaqtida</string>
+    <string name="question_63B">..ning</string>
+    <string name="question_63C">nima</string>
+    <string name="question_63D">...dan</string>
+    <string name="answer_63">..ning</string>
+
+    <string name="question_64A">nechta</string>
+    <string name="question_64B">qaysi</string>
+    <string name="question_64C">uchun</string>
+    <string name="question_64D">kabi</string>
+    <string name="answer_64">uchun</string>
+
+
+    <string name="question_65A"> bir xil</string>
+    <string name="question_65B">siz ikkalangiz kabi</string>
+    <string name="question_65C">osha ikkitasi</string>
+    <string name="question_65D">mening</string>
+    <string name="answer_65">bir xil</string>
+
+    <string name="question_66A">seniki</string>
+    <string name="question_66B">yagona</string>
+    <string name="question_66C">oldin</string>
+    <string name="question_66D">mening</string>
+    <string name="answer_66">oldin</string>
+
+    <string name="question67_A">..yilda </string>
+    <string name="question67_B">kimdr</string>
+    <string name="question67_C">ular</string>
+    <string name="question67_D">qasam ichmoq</string>
+    <string name="answer_67">qasam ichmoq</string>
+
+
+    <string name="question68_A">..tomonga </string>
+    <string name="question68_B">bundan</string>
+    <string name="question68_C">u</string>
+    <string name="question68_D">sabab</string>
+    <string name="answer_68">..tomonga</string>
+
+
+    <string name="question_69A">oldin</string>
+    <string name="question_69B">va</string>
+    <string name="question_69C">bir xil</string>
+    <string name="question_69D">nimada</string>
+    <string name="answer_69">va</string>
+
+    <string name="question70_A">uning </string>
+    <string name="question70_B">agar yoq bolsa</string>
+    <string name="question70_C">..dan</string>
+    <string name="question70_D">osha ikkitasi</string>
+    <string name="answer_70">..dan</string>
+
+
+    <string name="question71_A">ustida</string>
+    <string name="question71_B">kimdir</string>
+    <string name="question71_C">uchun</string>
+    <string name="question71_D">biz</string>
+    <string name="answer_71">ustida </string>
+
+
+    <string name="question_72A">kim</string>
+    <string name="question_72B">nimaga</string>
+    <string name="question_72C">nimada</string>
+    <string name="question_72D">yaqin</string>
+    <string name="answer_72">nimada</string>
+
+
+    <string name="question_73A"> vaqtida</string>
+    <string name="question_73B">nima haqida</string>
+    <string name="question_73C">nima</string>
+    <string name="question_73D">...dan</string>
+    <string name="answer_73">nima haqida</string>
+
+    <string name="question_74A">kimdr</string>
+    <string name="question_74B">qaysi</string>
+    <string name="question_74C">shunday qilip</string>
+    <string name="question_74D">chunki</string>
+    <string name="answer_74">chunki</string>
+
+
+    <string name="question_75A"> agar</string>
+    <string name="question_75B">bundan</string>
+    <string name="question_75C">keyin</string>
+    <string name="question_75D">qasam ichmoq</string>
+    <string name="answer_75">bundan</string>
+
+    <string name="question_76A">sabab</string>
+    <string name="question_76B">ustida</string>
+    <string name="question_76C">tomonda</string>
+    <string name="question_76D">mening</string>
+    <string name="answer_76">sabab</string>
+
+    <string name="question77_A">men </string>
+    <string name="question77_B">xuddi..</string>
+    <string name="question77_C">ular</string>
+    <string name="question77_D">u</string>
+    <string name="answer_77">xuddi..</string>
+
+
+    <string name="question78_A">chunki </string>
+    <string name="question78_B">agar</string>
+    <string name="question78_C">keyin</string>
+    <string name="question78_D">biz</string>
+    <string name="answer_78">keyin</string>
+
+
+    <string name="question_79A">nimada</string>
+    <string name="question_79B">ustida</string>
+    <string name="question_79C">qasam ichmoq</string>
+    <string name="question_79D">agar</string>
+    <string name="answer_79">agar</string>
+
+    <string name="question80_A">qanday qilip </string>
+    <string name="question80_B">agar yoq bolsa</string>
+    <string name="question80_C">nechta</string>
+    <string name="question80_D">osha ikkitasi</string>
+    <string name="answer_80">qanday qilip</string>
+
+
+    <string name="question81_A">goyo </string>
+    <string name="question81_B">rost</string>
+    <string name="question81_C">keyin</string>
+    <string name="question81_D">har doim</string>
+    <string name="answer_81">har doim </string>
+
+
+    <string name="question_82A">ehtimol</string>
+    <string name="question_82B">goyo</string>
+    <string name="question_82C">qachon</string>
+    <string name="question_82D">..yilda</string>
+    <string name="answer_82">goyo</string>
+
+
+    <string name="question_83A"> hamma narsa</string>
+    <string name="question_83B">..rost</string>
+    <string name="question_83C">nima</string>
+    <string name="question_83D">haqida</string>
+    <string name="answer_83">..rost</string>
+
+    <string name="question_84A">goyo...</string>
+    <string name="question_84B">siz haqingizda</string>
+    <string name="question_84C">uchun</string>
+    <string name="question_84D">birinchi</string>
+    <string name="answer_84">goyo...</string>
+
+
+    <string name="question_85A"> bir xil</string>
+    <string name="question_85B">keyin</string>
+    <string name="question_85C">nima</string>
+    <string name="question_85D">agar</string>
+    <string name="answer_85">keyin</string>
+
+    <string name="question_86A">haqiqattan ham</string>
+    <string name="question_86B">yagona</string>
+    <string name="question_86C">oldin</string>
+    <string name="question_86D">mening</string>
+    <string name="answer_86">haqiqattan ham</string>
+
+    <string name="question87_A">..yilda </string>
+    <string name="question87_B">kimdr</string>
+    <string name="question87_C">ehtimol</string>
+    <string name="question87_D">qasam ichmoq</string>
+    <string name="answer_87">ehtimol</string>
+
+
+    <string name="question88_A">..tomonga </string>
+    <string name="question88_B">keyin</string>
+    <string name="question88_C">agar</string>
+    <string name="question88_D">shunga qaramasdan</string>
+    <string name="answer_88">shunga qaramasdan</string>
+
+
+    <string name="question_89A">vaqt</string>
+    <string name="question_89B">va</string>
+    <string name="question_89C">lekin</string>
+    <string name="question_89D">birinchi</string>
+    <string name="answer_89">lekin</string>
+
+    <string name="question90_A">bitta </string>
+    <string name="question90_B">agar yoq bolsa</string>
+    <string name="question90_C">..dan</string>
+    <string name="question90_D">osha ikkitasi</string>
+    <string name="answer_90">bitta</string>
+
+
+    <string name="question91_A">ustida</string>
+    <string name="question91_B">kimdir</string>
+    <string name="question91_C">agar</string>
+    <string name="question91_D">ular</string>
+    <string name="answer_91">agar </string>
+
+
+    <string name="question_92A">ammo</string>
+    <string name="question_92B">nimaga</string>
+    <string name="question_92C">keyin</string>
+    <string name="question_92D">yaqin</string>
+    <string name="answer_92">keyin</string>
+
+
+    <string name="question_93A"> agar</string>
+    <string name="question_93B">nima haqida</string>
+    <string name="question_93C">kimlar</string>
+    <string name="question_93D">...dan</string>
+    <string name="answer_93">agar</string>
+
+    <string name="question_94A">kimdr</string>
+    <string name="question_94B">qaysi</string>
+    <string name="question_94C">shunday qilip</string>
+    <string name="question_94D">qachon</string>
+    <string name="answer_94">qachon</string>
+
+
+    <string name="question_95A"> agar</string>
+    <string name="question_95B">extimol</string>
+    <string name="question_95C">keyin</string>
+    <string name="question_95D">qasam ichmoq</string>
+    <string name="answer_95">extimol</string>
+
+    <string name="question_96A">hamma narsa</string>
+    <string name="question_96B">ustida</string>
+    <string name="question_96C">tomonda</string>
+    <string name="question_96D">mening</string>
+    <string name="answer_96">hamma narsa</string>
+
+    <string name="question97_A">men </string>
+    <string name="question97_B">haqida</string>
+    <string name="question97_C">ular</string>
+    <string name="question97_D">u</string>
+    <string name="answer_97">haqida</string>
+
+
+    <string name="question98_A">chunki </string>
+    <string name="question98_B">agar</string>
+    <string name="question98_C">siz haqingizda</string>
+    <string name="question98_D">biz</string>
+    <string name="answer_98">siz haqingizda</string>
+
+
+    <string name="question_99A">nimada</string>
+    <string name="question_99B">ustida</string>
+    <string name="question_99C">qasam ichmoq</string>
+    <string name="question_99D">toliq ishonnsa boladigan kishiga</string>
+    <string name="answer_99">toliq ishonnsa boladigan kishiga</string>
+
+    <string name="question100_A">birinchi</string>
+    <string name="question100_B">agar yoq bolsa</string>
+    <string name="question100_C">nechta</string>
+    <string name="question100_D">osha ikkitasi</string>
+    <string name="answer_100">birinchi</string>
+
+
+    <string name="question101_A">men </string>
+    <string name="question101_B">birinchi</string>
+    <string name="question101_C">u</string>
+    <string name="question101_D">biz</string>
+    <string name="answer_101">birinchi</string>
+
+
+    <string name="question_102A">bilish</string>
+    <string name="question_102B">yagona</string>
+    <string name="question_102C">koruvchi</string>
+    <string name="question_102D">mexribon</string>
+    <string name="answer_102">koruvchi</string>
+
+
+    <string name="question_103A"> dono</string>
+    <string name="question_103B">himoyachi</string>
+    <string name="question_103C">buyuk</string>
+    <string name="question_103D">oxigi</string>
+    <string name="answer_103">oxigi</string>
+
+    <string name="question_104A">tinglash</string>
+    <string name="question_104B">rahmat</string>
+    <string name="question_104C">boshqa</string>
+    <string name="question_104D">seniki</string>
+    <string name="answer_104">boshqa</string>
+
+
+    <string name="question105_A">Rabbim </string>
+    <string name="question105_B">boshqa</string>
+    <string name="question105_C">bilish</string>
+    <string name="question105_D">yagona</string>
+    <string name="answer_105">boshqa</string>
+
+    <string name="question_106A"> kerakli</string>
+    <string name="question_106B">yaqin dost</string>
+    <string name="question_106C">ikkitasi</string>
+    <string name="question_106D">dono</string>
+    <string name="answer_106">dono</string>
+
+    <string name="question_107A">himoyachi</string>
+    <string name="question_107B">yagona</string>
+    <string name="question_107C">tinchlik</string>
+    <string name="question_107D">mening</string>
+    <string name="answer_107">himoyachi</string>
+
+    <string name="question108_A">men </string>
+    <string name="question108_B">seniki</string>
+    <string name="question108_C">kechirsiz</string>
+    <string name="question108_D">biz</string>
+    <string name="answer_108">kechirsiz</string>
+
+
+    <string name="question109_A">yaqin dost </string>
+    <string name="question109_B">sen</string>
+    <string name="question109_C">ular</string>
+    <string name="question109_D">osha ikkitasi</string>
+    <string name="answer_109">yaqin dost</string>
+
+    <string name="question110_A">uning </string>
+    <string name="question110_B">sen</string>
+    <string name="question110_C">maqtovga loyiq</string>
+    <string name="question110_D">mexribon</string>
+    <string name="answer_110">maqtovga loyiq</string>
+
+
+    <string name="question111_A">mexribon</string>
+    <string name="question111_B">kechirasiz..</string>
+    <string name="question111_C">uning</string>
+    <string name="question111_D">biz</string>
+    <string name="answer_111">mexribon</string>
+
+
+    <string name="question_112A">Seniki</string>
+    <string name="question_112B">Yagona</string>
+    <string name="question_112C">Rabbim</string>
+    <string name="question_112D">Mening</string>
+    <string name="answer_112">Rabbim</string>
+
+
+    <string name="question_113A">qudratli</string>
+    <string name="question_113B">rahmat</string>
+    <string name="question_113C">buyuk</string>
+    <string name="question_113D">bilish</string>
+    <string name="answer_113">bilish</string>
+
+    <string name="question_114A">bilish</string>
+    <string name="question_114B">boshqa</string>
+    <string name="question_114C">mexribon</string>
+    <string name="question_114D">rahmat</string>
+    <string name="answer_114">rahmat</string>
+
+
+    <string name="question115_A">yagona </string>
+    <string name="question115_B">tinglash</string>
+    <string name="question115_C">koruvchi</string>
+    <string name="question115_D">qudratli</string>
+    <string name="answer_115">tinglash</string>
+
+    <string name="question_116A"> tinchlik</string>
+    <string name="question_116B">oxirgi</string>
+    <string name="question_116C">boshqa</string>
+    <string name="question_116D">buyuk</string>
+    <string name="answer_116">tinchlik</string>
+
+    <string name="question_117A">seniki</string>
+    <string name="question_117B">yagona</string>
+    <string name="question_117C">qudratli</string>
+    <string name="question_117D">mening</string>
+    <string name="answer_117">qudratli</string>
+
+    <string name="question118_A">bilish </string>
+    <string name="question118_B">maqtovga loyiq</string>
+    <string name="question118_C">hayot</string>
+    <string name="question118_D">kechirasiz</string>
+    <string name="answer_118">kechirasiz</string>
+
+
+    <string name="question119_A">uning </string>
+    <string name="question119_B">buyuk</string>
+    <string name="question119_C">ular</string>
+    <string name="question119_D">dono</string>
+    <string name="answer_119">buyuk</string>
+
+    <string name="question120_A">birinchi </string>
+    <string name="question120_B">gamxorlik</string>
+    <string name="question120_C">mexribon</string>
+    <string name="question120_D">tinglash</string>
+    <string name="answer_120">gamxorlik</string>
+
+
+    <string name="question121_A">qudratli </string>
+    <string name="question121_B">yordam berish</string>
+    <string name="question121_C">qattiq</string>
+    <string name="question121_D">quron</string>
+    <string name="answer_121">yordam berish</string>
+
+
+    <string name="question_122A">ogohlantirish</string>
+    <string name="question_122B">eng</string>
+    <string name="question_122C">belgilar</string>
+    <string name="question_122D">yaqin</string>
+    <string name="answer_122">ogohlantirish</string>
+
+
+    <string name="question_123A"> belgi</string>
+    <string name="question_123B">oyat</string>
+    <string name="question_123C">oliyjanob</string>
+    <string name="question_123D">...dan</string>
+    <string name="answer_123">oliyjanob</string>
+
+
+    <string name="question124_A">kuchliroq </string>
+    <string name="question124_B">shundaymi</string>
+    <string name="question124_C">ularning</string>
+    <string name="question124_D">biz</string>
+    <string name="answer_124">kuchliroq</string>
+
+    <string name="question_125A"> katta</string>
+    <string name="question_125B">koproq</string>
+    <string name="question_125C">qattiq</string>
+    <string name="question_125D">mening</string>
+    <string name="answer_125">qattiq</string>
+
+    <string name="question_126A">agar yoq bolsa</string>
+    <string name="question_126B">yagona</string>
+    <string name="question_126C">ular</string>
+    <string name="question_126D">yaxshi biladigan</string>
+    <string name="answer_126">yaxshi biladigan</string>
+
+    <string name="question127_A">nechta </string>
+    <string name="question127_B">seniki</string>
+    <string name="question127_C">habardor</string>
+    <string name="question127_D">biz</string>
+    <string name="answer_127">habardor</string>
+
+
+    <string name="question128_A">kattaroq</string>
+    <string name="question128_B">sen</string>
+    <string name="question128_C">kim</string>
+    <string name="question128_D">osha ikkitasi</string>
+    <string name="answer_128">kattaroq</string>
+
+    <string name="question129_A">uning </string>
+    <string name="question129_B">baland</string>
+    <string name="question129_C">siz ikkalangiz ham</string>
+    <string name="question129_D">osha ikkitasi</string>
+    <string name="answer_129">baland</string>
+
+
+    <string name="question130_A">osha ikkitasi </string>
+    <string name="question130_B">seniki</string>
+    <string name="question130_C">yaqinrog</string>
+    <string name="question130_D">biz</string>
+    <string name="answer_130">yaqinrog </string>
+
+
+    <string name="question_131A">kim</string>
+    <string name="question_131B">nimaga</string>
+    <string name="question_131C">yaqin</string>
+    <string name="question_131D">buyuk</string>
+    <string name="answer_131">yaqin</string>
+
+
+    <string name="question_132A"> katta</string>
+    <string name="question_132B">siz ikkalangiz kabi</string>
+    <string name="question_132C">nima</string>
+    <string name="question_132D">...dan</string>
+    <string name="answer_132">katta</string>
+
+    <string name="question_133A">nechta</string>
+    <string name="question_133B">qaysi</string>
+    <string name="question_133C">koproq</string>
+    <string name="question_133D">kabi</string>
+    <string name="answer_133">koproq</string>
+
+
+    <string name="question_134A"> katta</string>
+    <string name="question_134B">siz ikkalangiz kabi</string>
+    <string name="question_134C">osha ikkitasi</string>
+    <string name="question_134D">mening</string>
+    <string name="answer_134">katta</string>
+
+    <string name="question_135A">katta</string>
+    <string name="question_135B">habardor</string>
+    <string name="question_135C">juda kop</string>
+    <string name="question_135D">kop</string>
+    <string name="answer_135">juda kop</string>
+
+    <string name="question136_A">men </string>
+    <string name="question136_B">seniki</string>
+    <string name="question136_C">ular</string>
+    <string name="question136_D">eng</string>
+    <string name="answer_136">eng</string>
+
+
+    <string name="question137_A">oliyjanob </string>
+    <string name="question137_B">juda kop</string>
+    <string name="question137_C">u</string>
+    <string name="question137_D">biz</string>
+    <string name="answer_137">juda kop</string>
+
+
+    <string name="question_138A">Seniki</string>
+    <string name="question_138B">Yagona</string>
+    <string name="question_138C">Quron</string>
+    <string name="question_138D">Mening</string>
+    <string name="answer_138">Quron</string>
+
+
+    <string name="question_139A">kattaroq</string>
+    <string name="question_139B">yangi</string>
+    <string name="question_139C">buyuk</string>
+    <string name="question_139D">belgilar</string>
+    <string name="answer_139">belgilar</string>
+
+    <string name="question140_A">uning </string>
+    <string name="question140_B">agar yoq bolsa</string>
+    <string name="question140_C">belgi</string>
+    <string name="question140_D">osha ikkitasi</string>
+    <string name="answer_140">belgi</string>
+
+
+    <string name="question141_A">yer </string>
+    <string name="question141_B">...egassi</string>
+    <string name="question141_C">firaun</string>
+    <string name="question141_D">kecha</string>
+    <string name="answer_141">yer</string>
+
+
+    <string name="question_142A">dengiz</string>
+    <string name="question_142B">oy</string>
+    <string name="question_142C">kecha</string>
+    <string name="question_142D">tasdiqlash</string>
+    <string name="answer_142">tasdiqlash</string>
+
+
+    <string name="question_143A">quyosh</string>
+    <string name="question_143B">jannat</string>
+    <string name="question_143C">dalil</string>
+    <string name="question_143D">...dan</string>
+    <string name="answer_143">dalil</string>
+
+    <string name="question_144A">oy</string>
+    <string name="question_144B">osmon</string>
+    <string name="question_144C">shayton</string>
+    <string name="question_144D">dengiz</string>
+    <string name="answer_144">dengiz</string>
+
+
+    <string name="question145_A">toglar </string>
+    <string name="question145_B">shundaymi</string>
+    <string name="question145_C">xabarchilar</string>
+    <string name="question145_D">biz</string>
+    <string name="answer_145">toglar</string>
+
+    <string name="question_146A"> kun</string>
+    <string name="question_146B">firavn</string>
+    <string name="question_146C">tog</string>
+    <string name="question_146D">Paygambar</string>
+    <string name="answer_146">tog</string>
+
+    <string name="question_147A">chorva mollari</string>
+    <string name="question_147B">shaytonlar</string>
+    <string name="question_147C">oy</string>
+    <string name="question_147D">kecha</string>
+    <string name="answer_147">kecha</string>
+
+    <string name="question148_A">oy </string>
+    <string name="question148_B">seniki</string>
+    <string name="question148_C">yagona</string>
+    <string name="question148_D">biz</string>
+    <string name="answer_148">oy</string>
+
+
+    <string name="question149_A">yomonlik</string>
+    <string name="question149_B">nechta</string>
+    <string name="question149_C">quyosh</string>
+    <string name="question149_D">dalil</string>
+    <string name="answer_149">quyosh</string>
+
+    <string name="question150_A">Uning </string>
+    <string name="question150_B">Odamlar Paygambari Solih</string>
+    <string name="question150_C">Odamlar Paygambar Gud</string>
+    <string name="question150_D">Osha ikkitasi</string>
+    <string name="answer_150">Odamlar Paygambari Solih</string>
+
+
+    <string name="question151_A">Odamlar Paygambar Gud </string>
+    <string name="question151_B">Seniki</string>
+    <string name="question151_C">Kim</string>
+    <string name="question151_D">Biz</string>
+    <string name="answer_151">Odamlar Paygambar Gud </string>
+
+
+    <string name="question_152A">juda chiroyli</string>
+    <string name="question_152B">yagona</string>
+    <string name="question_152C">egasi</string>
+    <string name="question_152D">kun</string>
+    <string name="answer_152">kun</string>
+
+
+    <string name="question_153A"> seniki</string>
+    <string name="question_153B">firavn</string>
+    <string name="question_153C">osha ikkitasi</string>
+    <string name="question_153D">biz</string>
+    <string name="answer_153">firavn</string>
+
+    <string name="question_154A">jannat</string>
+    <string name="question_154B">toglar</string>
+    <string name="question_154C">dengiz</string>
+    <string name="question_154D">dalil</string>
+    <string name="answer_154">jannat</string>
+
+
+    <string name="question155_A">egasi </string>
+    <string name="question155_B">siz</string>
+    <string name="question155_C">emas..</string>
+    <string name="question155_D">osmon</string>
+    <string name="answer_155">osmon</string>
+
+    <string name="question_156A"> Paygambar</string>
+    <string name="question_156B">siz ikkalangiz kabi</string>
+    <string name="question_156C">chorva mollari</string>
+    <string name="question_156D">mening</string>
+    <string name="answer_156">chorva mollari</string>
+
+    <string name="question_157A">shaytolar</string>
+    <string name="question_157B">yagona</string>
+    <string name="question_157C">ular</string>
+    <string name="question_157D">mening</string>
+    <string name="answer_157">shaytolar</string>
+
+    <string name="question158_A">quyosh </string>
+    <string name="question158_B">shaytonlar</string>
+    <string name="question158_C">shayton</string>
+    <string name="question158_D">oy</string>
+    <string name="answer_158">shayton</string>
+
+
+    <string name="question159_A">Uning </string>
+    <string name="question159_B">Paygambar</string>
+    <string name="question159_C">Ular</string>
+    <string name="question159_D">Osha ikkitasi</string>
+    <string name="answer_159">Paygambar</string>
+
+    <string name="question160_A">dalil </string>
+    <string name="question160_B">jannat</string>
+    <string name="question160_C">xabarchilar</string>
+    <string name="question160_D">yer</string>
+    <string name="answer_160">xabarchilar</string>
+
+    <string name="question161_A">rasululloh </string>
+    <string name="question161_B">...yilning</string>
+    <string name="question161_C">uchun</string>
+    <string name="question161_D">biz</string>
+    <string name="answer_161">rasululloh </string>
+
+
+    <string name="question_162A">mukofot</string>
+    <string name="question_162B">nimaga</string>
+    <string name="question_162C">keyin</string>
+    <string name="question_162D">paygambarlar</string>
+    <string name="answer_162">paygambarlar</string>
+
+
+    <string name="question_163A"> vaqtida</string>
+    <string name="question_163B">paygambarlar</string>
+    <string name="question_163C">nima</string>
+    <string name="question_163D">...dan</string>
+    <string name="answer_163">paygambarlar</string>
+
+    <string name="question_164A">nechta</string>
+    <string name="question_164B">qaysi</string>
+    <string name="question_164C">paygambarlar</string>
+    <string name="question_164D">kabi</string>
+    <string name="answer_164">paygambarlar</string>
+
+
+    <string name="question_165A"> Ibrohim paygambar</string>
+    <string name="question_165B">Paygambar Yusuf</string>
+    <string name="question_165C">Yoqub paygambar</string>
+    <string name="question_165D">Nuh paygambar</string>
+    <string name="answer_165">Ibrohim paygambar</string>
+
+    <string name="question_166A">Paygambar Odam</string>
+    <string name="question_166B">Paygambar Ishoq</string>
+    <string name="question_166C">Nuh paygambar</string>
+    <string name="question_166D">Paygambar Yusuf</string>
+    <string name="answer_166">Nuh paygambar</string>
+
+    <string name="question167_A">Ibrohim paygambar </string>
+    <string name="question167_B">Paygambar Solih</string>
+    <string name="question167_C">Paygambar Iso</string>
+    <string name="question167_D">Paygambar Odam</string>
+    <string name="answer_167">Paygambar Odam</string>
+
+
+    <string name="question168_A">Paygambar Ishoq </string>
+    <string name="question168_B">Paygambar Ismoil</string>
+    <string name="question168_C">Paygambar Lut</string>
+    <string name="question168_D">Yoqub paygambar</string>
+    <string name="answer_168">Paygambar Ishoq</string>
+
+
+    <string name="question_169A">Ibrohim paygambar</string>
+    <string name="question_169B">Paygambar Ismoil</string>
+    <string name="question_169C">Nuh paygambar</string>
+    <string name="question_169D">Paygambar Solih</string>
+    <string name="answer_169">Paygambar Ismoil</string>
+
+    <string name="question170_A">Paygambar Shuyib </string>
+    <string name="question170_B">Paygambar Gud</string>
+    <string name="question170_C">Paygambar Lut</string>
+    <string name="question170_D">Ibrohim paygambar</string>
+    <string name="answer_170">Paygambar Lut</string>
+
+
+    <string name="question171_A">Paygambar Yusuf</string>
+    <string name="question171_B">Paygambar Lut</string>
+    <string name="question171_C">Paygambar Ishoq</string>
+    <string name="question171_D">Paygambar Odam</string>
+    <string name="answer_171">Paygambar Yusuf </string>
+
+
+    <string name="question_172A">Paygambar Iso</string>
+    <string name="question_172B">Paygambar Solih</string>
+    <string name="question_172C">Isroil</string>
+    <string name="question_172D">Paygambar Odam</string>
+    <string name="answer_172">Isroil</string>
+
+
+    <string name="question_173A"> Ibrohim paygambar</string>
+    <string name="question_173B">Yoqub paygambar</string>
+    <string name="question_173C">Paygambar Ismoil</string>
+    <string name="question_173D">Nuh paygambar</string>
+    <string name="answer_173">Yoqub paygambar</string>
+
+    <string name="question_174A">Paygambar Ismoil</string>
+    <string name="question_174B">Paygambar Yusuf</string>
+    <string name="question_174C">Paygambar Ishoq</string>
+    <string name="question_174D">Paygambar Solih</string>
+    <string name="answer_174">Paygambar Solih</string>
+
+
+    <string name="question_175A"> Yoqub paygambar</string>
+    <string name="question_175B">Paygambar Shuyib</string>
+    <string name="question_175C">Paygambar Yusuf</string>
+    <string name="question_175D">Paygambar Ismoil</string>
+    <string name="answer_175">Paygambar Shuyib</string>
+
+    <string name="question_176A">Paygambar Gud</string>
+    <string name="question_176B">Ibrohim paygambar</string>
+    <string name="question_176C">Paygambar Yusuf</string>
+    <string name="question_176D">Paygambar Ismoil</string>
+    <string name="answer_176">Paygambar Gud</string>
+
+    <string name="question177_A">Paygambar Gud </string>
+    <string name="question177_B">Paygambar Iso</string>
+    <string name="question177_C">Paygambar Ismoil</string>
+    <string name="question177_D">Muso paygambar</string>
+    <string name="answer_177">Paygambar Iso</string>
+
+
+    <string name="question178_A">Yoqub paygambar </string>
+    <string name="question178_B">Paygambar Solih</string>
+    <string name="question178_C">Muso paygambar</string>
+    <string name="question178_D">Paygambar Yusuf</string>
+    <string name="answer_178">Muso paygambar</string>
+
+
+    <string name="question_179A">nimada</string>
+    <string name="question_179B">ustida</string>
+    <string name="question_179C">qasam ichmoq</string>
+    <string name="question_179D">mukofotlar</string>
+    <string name="answer_179">mukofotlar</string>
+
+    <string name="question180_A">mukofot </string>
+    <string name="question180_B">agar yoq bolsa</string>
+    <string name="question180_C">nechta</string>
+    <string name="question180_D">osha ikkitasi</string>
+    <string name="answer_180">mukofot</string>
+
+    <string name="question181_A">goyo </string>
+    <string name="question181_B">rost</string>
+    <string name="question181_C">keyin</string>
+    <string name="question181_D">abadiy</string>
+    <string name="answer_181">abadiy </string>
+
+
+    <string name="question_182A">ehtimol</string>
+    <string name="question_182B">ogriqli</string>
+    <string name="question_182C">qachon</string>
+    <string name="question_182D">..yilda</string>
+    <string name="answer_182">ogriqli</string>
+
+
+    <string name="question_183A"> hamma narsa</string>
+    <string name="question_183B">oxirat</string>
+    <string name="question_183C">nima</string>
+    <string name="question_183D">haqida</string>
+    <string name="answer_183">oxirat</string>
+
+    <string name="question_184A">davr</string>
+    <string name="question_184B">siz haqingizda</string>
+    <string name="question_184C">uchun</string>
+    <string name="question_184D">birinchi</string>
+    <string name="answer_184">davr</string>
+
+
+    <string name="question_185A"> bir xil</string>
+    <string name="question_185B">mukofot</string>
+    <string name="question_185C">nima</string>
+    <string name="question_185D">agar</string>
+    <string name="answer_185">mukofot</string>
+
+    <string name="question_186A">dozax</string>
+    <string name="question_186B">yagona</string>
+    <string name="question_186C">oldin</string>
+    <string name="question_186D">mening</string>
+    <string name="answer_186">dozax</string>
+
+    <string name="question187_A">..yilda </string>
+    <string name="question187_B">kimdr</string>
+    <string name="question187_C">mukofot</string>
+    <string name="question187_D">qasam ichmoq</string>
+    <string name="answer_187">mukofot</string>
+
+
+    <string name="question188_A">..tomonga </string>
+    <string name="question188_B">keyin</string>
+    <string name="question188_C">agar</string>
+    <string name="question188_D">jahannam</string>
+    <string name="answer_188">jahannam</string>
+
+
+    <string name="question_189A">vaqt</string>
+    <string name="question_189B">va</string>
+    <string name="question_189C">jannatlar</string>
+    <string name="question_189D">birinchi</string>
+    <string name="answer_189">jannatlar</string>
+
+    <string name="question190_A">jannat </string>
+    <string name="question190_B">agar yoq bolsa</string>
+    <string name="question190_C">..dan</string>
+    <string name="question190_D">osha ikkitasi</string>
+    <string name="answer_190">jannat</string>
+
+
+    <string name="question191_A">ustida</string>
+    <string name="question191_B">kimdir</string>
+    <string name="question191_C">soat</string>
+    <string name="question191_D">ular</string>
+    <string name="answer_191">soat </string>
+
+
+    <string name="question_192A">ammo</string>
+    <string name="question_192B">nimaga</string>
+    <string name="question_192C">tolash</string>
+    <string name="question_192D">yaqin</string>
+    <string name="answer_192">tolash</string>
+
+
+    <string name="question_193A"> oxiri</string>
+    <string name="question_193B">nima haqida</string>
+    <string name="question_193C">kimlar</string>
+    <string name="question_193D">...dan</string>
+    <string name="answer_193">oxiri</string>
+
+    <string name="question_194A">kimdr</string>
+    <string name="question_194B">qaysi</string>
+    <string name="question_194C">shunday qilip</string>
+    <string name="question_194D">sheriklar</string>
+    <string name="answer_194">sheriklar</string>
+
+
+    <string name="question_195A"> agar</string>
+    <string name="question_195B">hamroh</string>
+    <string name="question_195C">keyin</string>
+    <string name="question_195D">qasam ichmoq</string>
+    <string name="answer_195">hamroh</string>
+
+    <string name="question_196A">tirilish</string>
+    <string name="question_196B">ustida</string>
+    <string name="question_196C">tomonda</string>
+    <string name="question_196D">mening</string>
+    <string name="answer_196">tirilish</string>
+
+    <string name="question197_A">men </string>
+    <string name="question197_B">jazo</string>
+    <string name="question197_C">ular</string>
+    <string name="question197_D">u</string>
+    <string name="answer_197">jazo</string>
+
+
+    <string name="question198_A">chunki </string>
+    <string name="question198_B">agar</string>
+    <string name="question198_C">jazo</string>
+    <string name="question198_D">biz</string>
+    <string name="answer_198">jazo</string>
+
+
+    <string name="question_199A">nimada</string>
+    <string name="question_199B">ustida</string>
+    <string name="question_199C">qasam ichmoq</string>
+    <string name="question_199D">daryolar</string>
+    <string name="answer_199">daryolar</string>
+
+    <string name="question200_A">daryo</string>
+    <string name="question200_B">agar yoq bolsa</string>
+    <string name="question200_C">nechta</string>
+    <string name="question200_D">osha ikkitasi</string>
+    <string name="answer_200">daryo</string>
+
+    <string name="question201_A">men </string>
+    <string name="question201_B">tashkil etilgan</string>
+    <string name="question201_C">u</string>
+    <string name="question201_D">biz</string>
+    <string name="answer_201">tashkil etilgan</string>
+
+
+    <string name="question_202A">bilish</string>
+    <string name="question_202B">yagona</string>
+    <string name="question_202C">kunlar</string>
+    <string name="question_202D">mexribon</string>
+    <string name="answer_202">kunlar</string>
+
+
+    <string name="question_203A"> dono</string>
+    <string name="question_203B">himoyachi</string>
+    <string name="question_203C">buyuk</string>
+    <string name="question_203D">kun</string>
+    <string name="answer_203">kun</string>
+
+    <string name="question_204A">tinglash</string>
+    <string name="question_204B">rahmat</string>
+    <string name="question_204C">qaygu</string>
+    <string name="question_204D">seniki</string>
+    <string name="answer_204">qaygu</string>
+
+
+    <string name="question205_A">Rabbim </string>
+    <string name="question205_B">qaysi kun</string>
+    <string name="question205_C">bilish</string>
+    <string name="question205_D">yagona</string>
+    <string name="answer_205">qaysi kun</string>
+
+    <string name="question_206A"> kerakli</string>
+    <string name="question_206B">yaqin dost</string>
+    <string name="question_206C">ikkitasi</string>
+    <string name="question_206D">olov</string>
+    <string name="answer_206">olov</string>
+
+    <string name="question_207A">Alloh</string>
+    <string name="question_207B">yagona</string>
+    <string name="question_207C">tinchlik</string>
+    <string name="question_207D">mening</string>
+    <string name="answer_207">Alloh</string>
+
+    <string name="question208_A">men </string>
+    <string name="question208_B">seniki</string>
+    <string name="question208_C">bittasi</string>
+    <string name="question208_D">biz</string>
+    <string name="answer_208">bittasi</string>
+
+
+    <string name="question209_A">bir </string>
+    <string name="question209_B">sen</string>
+    <string name="question209_C">ular</string>
+    <string name="question209_D">osha ikkitasi</string>
+    <string name="answer_209">bir</string>
+
+    <string name="question210_A">uning </string>
+    <string name="question210_B">sen</string>
+    <string name="question210_C">sheriklar</string>
+    <string name="question210_D">mexribon</string>
+    <string name="answer_210">sheriklar</string>
+
+
+    <string name="question211_A">sherik</string>
+    <string name="question211_B">kechirasiz..</string>
+    <string name="question211_C">uning</string>
+    <string name="question211_D">biz</string>
+    <string name="answer_211">sherik</string>
+
+
+    <string name="question_212A">seniki</string>
+    <string name="question_212B">yagona</string>
+    <string name="question_212C">xudolar</string>
+    <string name="question_212D">mening</string>
+    <string name="answer_212">xudolar</string>
+
+
+    <string name="question_213A">qudratli</string>
+    <string name="question_213B">rahmat</string>
+    <string name="question_213C">buyuk</string>
+    <string name="question_213D">korinmas</string>
+    <string name="answer_213">korinmas</string>
+
+    <string name="question_214A">bilish</string>
+    <string name="question_214B">boshqa</string>
+    <string name="question_214C">mexribon</string>
+    <string name="question_214D">taxt</string>
+    <string name="answer_214">taxt</string>
+
+
+    <string name="question215_A">yagona </string>
+    <string name="question215_B">sertifikat</string>
+    <string name="question215_C">koruvchi</string>
+    <string name="question215_D">qudratli</string>
+    <string name="answer_215">sertifikat</string>
+
+    <string name="question_216A"> kitoblar</string>
+    <string name="question_216B">oxirgi</string>
+    <string name="question_216C">boshqa</string>
+    <string name="question_216D">buyuk</string>
+    <string name="answer_216">kitoblar</string>
+
+    <string name="question_217A">seniki</string>
+    <string name="question_217B">yagona</string>
+    <string name="question_217C">kitob</string>
+    <string name="question_217D">mening</string>
+    <string name="answer_217">kitob</string>
+
+    <string name="question218_A">bilish </string>
+    <string name="question218_B">maqtovga loyiq</string>
+    <string name="question218_C">hayot</string>
+    <string name="question218_D">korinmas</string>
+    <string name="answer_218">korinmas</string>
+
+
+    <string name="question219_A">uning </string>
+    <string name="question219_B">farishtalar</string>
+    <string name="question219_C">ular</string>
+    <string name="question219_D">dono</string>
+    <string name="answer_219">farishtalar</string>
+
+    <string name="question220_A">birinchi </string>
+    <string name="question220_B">farishta</string>
+    <string name="question220_C">mexribon</string>
+    <string name="question220_D">tinglash</string>
+    <string name="answer_220">farishta</string>
+
+
+    <string name="question221_A">buyuruq </string>
+    <string name="question221_B">soz</string>
+    <string name="question221_C">aniq</string>
+    <string name="question221_D">guvoh</string>
+    <string name="answer_221">soz</string>
+
+
+    <string name="question_222A">yolgiz</string>
+    <string name="question_222B">ishlar</string>
+    <string name="question_222C">shartnoma</string>
+    <string name="question_222D">namoz</string>
+    <string name="answer_222">yolgiz</string>
+
+
+    <string name="question_223A"> yoriqlik</string>
+    <string name="question_223B">oyat</string>
+    <string name="question_223C">bittasi</string>
+    <string name="question_223D">zakot</string>
+    <string name="answer_223">bittasi</string>
+
+
+    <string name="question224_A">shartnoma </string>
+    <string name="question224_B">ishlar</string>
+    <string name="question224_C">vakolat</string>
+    <string name="question224_D">biz</string>
+    <string name="answer_224">shartnoma</string>
+
+    <string name="question_225A"> rost</string>
+    <string name="question_225B">zakot</string>
+    <string name="question_225C">xudodan qorqish</string>
+    <string name="question_225D">mening</string>
+    <string name="answer_225">xudodan qorqish</string>
+
+    <string name="question_226A">yolgon</string>
+    <string name="question_226B">yagona</string>
+    <string name="question_226C">ular</string>
+    <string name="question_226D">ishlar</string>
+    <string name="answer_226">ishlar</string>
+
+    <string name="question227_A">vakolat </string>
+    <string name="question227_B">donolik</string>
+    <string name="question227_C">buyuruq</string>
+    <string name="question227_D">biz</string>
+    <string name="answer_227">buyuruq</string>
+
+
+    <string name="question228_A">donolik</string>
+    <string name="question228_B">din</string>
+    <string name="question228_C">zakot</string>
+    <string name="question228_D">vakolat</string>
+    <string name="answer_228">donolik</string>
+
+    <string name="question229_A">aniq </string>
+    <string name="question229_B">yolgon</string>
+    <string name="question229_C">siz ikkalangiz ham</string>
+    <string name="question229_D">osha ikkitasi</string>
+    <string name="answer_229">yolgon</string>
+
+
+    <string name="question230_A">buyuruq</string>
+    <string name="question230_B">din</string>
+    <string name="question230_C">rost</string>
+    <string name="question230_D">biz</string>
+    <string name="answer_230">rost </string>
+
+
+    <string name="question_231A">bittasi</string>
+    <string name="question_231B">donolik</string>
+    <string name="question_231C">zakot</string>
+    <string name="question_231D">buyuk</string>
+    <string name="answer_231">zakot</string>
+
+
+    <string name="question_232A"> din</string>
+    <string name="question_232B">xudodan qorqish</string>
+    <string name="question_232C">yolgiz</string>
+    <string name="question_232D">soz</string>
+    <string name="answer_232">din</string>
+
+    <string name="question_233A">namoz</string>
+    <string name="question_233B">rahm shavqat</string>
+    <string name="question_233C">maqtov</string>
+    <string name="question_233D">kabi</string>
+    <string name="answer_233">maqtov</string>
+
+
+    <string name="question_234A"> aniq</string>
+    <string name="question_234B">rost</string>
+    <string name="question_234C">guvoh</string>
+    <string name="question_234D">mening</string>
+    <string name="answer_234">aniq</string>
+
+    <string name="question_235A">vakolat</string>
+    <string name="question_235B">habardor</string>
+    <string name="question_235C">guvoh</string>
+    <string name="question_235D">ishlar</string>
+    <string name="answer_235">guvoh</string>
+
+    <string name="question236_A">bittasi </string>
+    <string name="question236_B">zakot</string>
+    <string name="question236_C">din</string>
+    <string name="question236_D">guvohlar</string>
+    <string name="answer_236">guvohlar</string>
+
+
+    <string name="question237_A">maqtov </string>
+    <string name="question237_B">yoriqlik</string>
+    <string name="question237_C">namoz</string>
+    <string name="question237_D">biz</string>
+    <string name="answer_237">yoriqlik</string>
+
+
+    <string name="question_238A">Seniki</string>
+    <string name="question_238B">Yagona</string>
+    <string name="question_238C">Namoz</string>
+    <string name="question_238D">Mening</string>
+    <string name="answer_238">Namoz</string>
+
+
+    <string name="question_239A">kattaroq</string>
+    <string name="question_239B">yangi</string>
+    <string name="question_239C">buyuk</string>
+    <string name="question_239D">rahm shavqat</string>
+    <string name="answer_239">rahm shavqat</string>
+
+    <string name="question240_A">uning </string>
+    <string name="question240_B">donolik</string>
+    <string name="question240_C">vakolat</string>
+    <string name="question240_D">zakot</string>
+    <string name="answer_240">vakolat</string>
+
+
+    <string name="question241_A">baraka </string>
+    <string name="question241_B">kozlar</string>
+    <string name="question241_C">jazo</string>
+    <string name="question241_D">kecha</string>
+    <string name="answer_241">baraka</string>
+
+
+    <string name="question_242A">dengiz</string>
+    <string name="question_242B">yurak</string>
+    <string name="question_242C">tillar</string>
+    <string name="question_242D">rahm shavqat</string>
+    <string name="answer_242">rahm shavqat</string>
+
+
+    <string name="question_243A">quyosh</string>
+    <string name="question_243B">jannat</string>
+    <string name="question_243C">qirollik</string>
+    <string name="question_243D">suv</string>
+    <string name="answer_243">qirollik</string>
+
+    <string name="question_244A">qaror</string>
+    <string name="question_244B">osmon</string>
+    <string name="question_244C">shayton</string>
+    <string name="question_244D">suv</string>
+    <string name="answer_244">suv</string>
+
+
+    <string name="question245_A">qaror </string>
+    <string name="question245_B">shundaymi</string>
+    <string name="question245_C">xabarchilar</string>
+    <string name="question245_D">ogizlar</string>
+    <string name="answer_245">qaror</string>
+
+    <string name="question_246A"> jazo</string>
+    <string name="question_246B">firavn</string>
+    <string name="question_246C">hamma birgalikda</string>
+    <string name="question_246D">Paygambar</string>
+    <string name="answer_246">hamma birgalikda</string>
+
+    <string name="question_247A">chorva mollari</string>
+    <string name="question_247B">shaytonlar</string>
+    <string name="question_247C">yurak</string>
+    <string name="question_247D">hamma</string>
+    <string name="answer_247">hamma</string>
+
+    <string name="question248_A">xuddi shu </string>
+    <string name="question248_B">seniki</string>
+    <string name="question248_C">yagona</string>
+    <string name="question248_D">biz</string>
+    <string name="answer_248">xuddi shu</string>
+
+
+    <string name="question249_A">yomonlik</string>
+    <string name="question249_B">nechta</string>
+    <string name="question249_C">hamma narsa</string>
+    <string name="question249_D">dalil</string>
+    <string name="answer_249">hamma narsa</string>
+
+    <string name="question250_A">Uning </string>
+    <string name="question250_B">Jazo</string>
+    <string name="question250_C">Odamlar Paygambar Gud</string>
+    <string name="question250_D">Osha ikkitasi</string>
+    <string name="answer_250">Jazo</string>
+
+
+    <string name="question251_A">Guruh </string>
+    <string name="question251_B">Seniki</string>
+    <string name="question251_C">Kim</string>
+    <string name="question251_D">Biz</string>
+    <string name="answer_251">Guruh </string>
+
+
+    <string name="question_252A">suv</string>
+    <string name="question_252B">qaror</string>
+    <string name="question_252C">egasi</string>
+    <string name="question_252D">korish</string>
+    <string name="answer_252">korish</string>
+
+
+    <string name="question_253A"> tillar</string>
+    <string name="question_253B">yuzlar</string>
+    <string name="question_253C">baraka</string>
+    <string name="question_253D">biz</string>
+    <string name="answer_253">yuzlar</string>
+
+    <string name="question_254A">yuz</string>
+    <string name="question_254B">toglar</string>
+    <string name="question_254C">dengiz</string>
+    <string name="question_254D">dalil</string>
+    <string name="answer_254">yuz</string>
+
+
+    <string name="question255_A">egasi </string>
+    <string name="question255_B">siz</string>
+    <string name="question255_C">guruh</string>
+    <string name="question255_D">ogizlar</string>
+    <string name="answer_255">ogizlar</string>
+
+    <string name="question_256A"> Paygambar</string>
+    <string name="question_256B">siz ikkalangiz kabi</string>
+    <string name="question_256C">kozlar</string>
+    <string name="question_256D">mening</string>
+    <string name="answer_256">kozlar</string>
+
+    <string name="question_257A">koz</string>
+    <string name="question_257B">hamma</string>
+    <string name="question_257C">qirollik</string>
+    <string name="question_257D">habar</string>
+    <string name="answer_257">koz</string>
+
+    <string name="question258_A">korish </string>
+    <string name="question258_B">shaytonlar</string>
+    <string name="question258_C">yurak</string>
+    <string name="question258_D">jazo</string>
+    <string name="answer_258">yurak</string>
+
+
+    <string name="question259_A">Uning </string>
+    <string name="question259_B">Tillar</string>
+    <string name="question259_C">Ular</string>
+    <string name="question259_D">Osha ikkitasi</string>
+    <string name="answer_259">Tillar</string>
+
+    <string name="question260_A">dalil </string>
+    <string name="question260_B">jannat</string>
+    <string name="question260_C">til</string>
+    <string name="question260_D">yer</string>
+    <string name="answer_260">til</string>
+
+
+    <string name="question261_A">kokrak qafasi </string>
+    <string name="question261_B">...yilning</string>
+    <string name="question261_C">uchun</string>
+    <string name="question261_D">biz</string>
+    <string name="answer_261">kokrak qafasi </string>
+
+
+    <string name="question_262A">mukofot</string>
+    <string name="question_262B">nimaga</string>
+    <string name="question_262C">keyin</string>
+    <string name="question_262D">kokrak qafasi</string>
+    <string name="answer_262">kokrak qafasi</string>
+
+
+    <string name="question_263A"> vaqtida</string>
+    <string name="question_263B">yurak</string>
+    <string name="question_263C">nima</string>
+    <string name="question_263D">...dan</string>
+    <string name="answer_263">yurak</string>
+
+    <string name="question_264A">nechta</string>
+    <string name="question_264B">qaysi</string>
+    <string name="question_264C">rux</string>
+    <string name="question_264D">kabi</string>
+    <string name="answer_264">rux</string>
+
+
+    <string name="question_265A"> qollar</string>
+    <string name="question_265B">ota</string>
+    <string name="question_265C">qol</string>
+    <string name="question_265D">onalar</string>
+    <string name="answer_265">qollar</string>
+
+    <string name="question_266A">qalb</string>
+    <string name="question_266B">rux</string>
+    <string name="question_266C">qol</string>
+    <string name="question_266D">kishi</string>
+    <string name="answer_266">qol</string>
+
+    <string name="question267_A">kokrak qafasi </string>
+    <string name="question267_B">kuch</string>
+    <string name="question267_C">onalar</string>
+    <string name="question267_D">kuch</string>
+    <string name="answer_267">kuch</string>
+
+
+    <string name="question268_A">oyoqlar </string>
+    <string name="question268_B">otalar</string>
+    <string name="question268_C">erkaklar</string>
+    <string name="question268_D">yurak</string>
+    <string name="answer_268">oyoqlar</string>
+
+
+    <string name="question_269A">ibrohim paygambar</string>
+    <string name="question_269B">hamma narsa</string>
+    <string name="question_269C">nuh paygambar</string>
+    <string name="question_269D">paygambar Solih</string>
+    <string name="answer_269">hamma narsa</string>
+
+    <string name="question270_A">oyoq </string>
+    <string name="question270_B">sherik</string>
+    <string name="question270_C">birodarlar</string>
+    <string name="question270_D">kishi</string>
+    <string name="answer_270">birodarlar</string>
+
+
+    <string name="question271_A">qalb</string>
+    <string name="question271_B">erkaklar</string>
+    <string name="question271_C">turmush ortog</string>
+    <string name="question271_D">qollar</string>
+    <string name="answer_271">qalb </string>
+
+
+    <string name="question_272A">qol</string>
+    <string name="question_272B">ota</string>
+    <string name="question_272C">rux</string>
+    <string name="question_272D">erkaklar</string>
+    <string name="answer_272">rux</string>
+
+
+    <string name="question_273A"> hamma narsa</string>
+    <string name="question_273B">ota</string>
+    <string name="question_273C">onalar</string>
+    <string name="question_273D">kokrak qafasi</string>
+    <string name="answer_273">ota</string>
+
+    <string name="question_274A">yurak</string>
+    <string name="question_274B">oyoq</string>
+    <string name="question_274C">baraka</string>
+    <string name="question_274D">onalar</string>
+    <string name="answer_274">onalar</string>
+
+
+    <string name="question_275A"> qirollik</string>
+    <string name="question_275B">ona</string>
+    <string name="question_275C">yuzzlar</string>
+    <string name="question_275D">guruh</string>
+    <string name="answer_275">ona</string>
+
+    <string name="question_276A">turmush ortog</string>
+    <string name="question_276B">yurak</string>
+    <string name="question_276C">tillar</string>
+    <string name="question_276D">xuddi shu</string>
+    <string name="answer_276">turmush ortog</string>
+
+    <string name="question277_A">qollar </string>
+    <string name="question277_B">otalar</string>
+    <string name="question277_C">qirollik</string>
+    <string name="question277_D">hammaa birgalikda</string>
+    <string name="answer_277">otalar</string>
+
+
+    <string name="question278_A">turmush ortog </string>
+    <string name="question278_B">ogiz</string>
+    <string name="question278_C">ota</string>
+    <string name="question278_D">baraka</string>
+    <string name="answer_278">ota</string>
+
+
+    <string name="question_279A">nimada</string>
+    <string name="question_279B">ustida</string>
+    <string name="question_279C">qasam ichmoq</string>
+    <string name="question_279D">erkaklar</string>
+    <string name="answer_279">erkaklar</string>
+
+    <string name="question280_A">kishi </string>
+    <string name="question280_B">agar yoq bolsa</string>
+    <string name="question280_C">nechta</string>
+    <string name="question280_D">osha ikkitasi</string>
+    <string name="answer_280">kishi</string>
+
+
+    <string name="question281_A">turmush ortoqlar </string>
+    <string name="question281_B">...yilning</string>
+    <string name="question281_C">uchun</string>
+    <string name="question281_D">biz</string>
+    <string name="answer_281">turmush ortoqlar </string>
+
+
+    <string name="question_282A">kim</string>
+    <string name="question_282B">nimaga</string>
+    <string name="question_282C">keyin</string>
+    <string name="question_282D">bolalar</string>
+    <string name="answer_282">bolalar</string>
+
+
+    <string name="question_283A"> vaqtida</string>
+    <string name="question_283B">ayollar</string>
+    <string name="question_283C">nima</string>
+    <string name="question_283D">...dan</string>
+    <string name="answer_283">ayollar</string>
+
+    <string name="question_284A">nechta</string>
+    <string name="question_284B">qaysi</string>
+    <string name="question_284C">ayol</string>
+    <string name="question_284D">kabi</string>
+    <string name="answer_284">ayol</string>
+
+
+    <string name="question_285A"> ogil</string>
+    <string name="question_285B">siz ikkalangiz kabi</string>
+    <string name="question_285C">osha ikkitasi</string>
+    <string name="question_285D">mening</string>
+    <string name="answer_285">ogil</string>
+
+    <string name="question_286A">seniki</string>
+    <string name="question_286B">yagona</string>
+    <string name="question_286C">bolalar</string>
+    <string name="question_286D">mening</string>
+    <string name="answer_286">bolalar</string>
+
+    <string name="question287_A">..yilda </string>
+    <string name="question287_B">kimdr</string>
+    <string name="question287_C">ular</string>
+    <string name="question287_D">bola</string>
+    <string name="answer_287">bola</string>
+
+
+    <string name="question288_A">ogillar </string>
+    <string name="question288_B">bundan</string>
+    <string name="question288_C">u</string>
+    <string name="question288_D">sabab</string>
+    <string name="answer_288">ogillar</string>
+
+
+    <string name="question_289A">oldin</string>
+    <string name="question_289B">ogillar</string>
+    <string name="question_289C">bir xil</string>
+    <string name="question_289D">nimada</string>
+    <string name="answer_289">ogillar</string>
+
+    <string name="question290_A">uning </string>
+    <string name="question290_B">agar yoq bolsa</string>
+    <string name="question290_C">ogillar</string>
+    <string name="question290_D">osha ikkitasi</string>
+    <string name="answer_290">ogillar</string>
+
+
+    <string name="question291_A">aka</string>
+    <string name="question291_B">kimdir</string>
+    <string name="question291_C">uchun</string>
+    <string name="question291_D">biz</string>
+    <string name="answer_291">aka </string>
+
+
+    <string name="question_292A">kim</string>
+    <string name="question_292B">nimaga</string>
+    <string name="question_292C">2 ta ota ona</string>
+    <string name="question_292D">yaqin</string>
+    <string name="answer_292">2 ta ota ona</string>
+
+
+    <string name="question_293A"> vaqtida</string>
+    <string name="question_293B">ota</string>
+    <string name="question_293C">nima</string>
+    <string name="question_293D">...dan</string>
+    <string name="answer_293">ota</string>
+
+    <string name="question_294A">kimdr</string>
+    <string name="question_294B">qaysi</string>
+    <string name="question_294C">shunday qilip</string>
+    <string name="question_294D">aka</string>
+    <string name="answer_294">aka</string>
+
+
+    <string name="question_295A"> agar</string>
+    <string name="question_295B">aka</string>
+    <string name="question_295C">keyin</string>
+    <string name="question_295D">qasam ichmoq</string>
+    <string name="answer_295">aka</string>
+
+    <string name="question_296A">aka</string>
+    <string name="question_296B">ustida</string>
+    <string name="question_296C">tomonda</string>
+    <string name="question_296D">mening</string>
+    <string name="answer_296">aka</string>
+
+    <string name="question297_A">men </string>
+    <string name="question297_B">odamlar</string>
+    <string name="question297_C">ular</string>
+    <string name="question297_D">u</string>
+    <string name="answer_297">odamlar</string>
+
+
+    <string name="question298_A">chunki </string>
+    <string name="question298_B">agar</string>
+    <string name="question298_C">hamjamiyat</string>
+    <string name="question298_D">biz</string>
+    <string name="answer_298">hamjamiyat</string>
+
+
+    <string name="question_299A">nimada</string>
+    <string name="question_299B">ustida</string>
+    <string name="question_299C">qasam ichmoq</string>
+    <string name="question_299D">jamiyat</string>
+    <string name="answer_299">jamiyat</string>
+
+    <string name="question300_A">inson </string>
+    <string name="question300_B">agar yoq bolsa</string>
+    <string name="question300_C">nechta</string>
+    <string name="question300_D">osha ikkitasi</string>
+    <string name="answer_300">inson</string>
+
+
+    <string name="question301_A">himoyachi </string>
+    <string name="question301_B">ayol</string>
+    <string name="question301_C">dushman</string>
+    <string name="question301_D">biz</string>
+    <string name="answer_301">himoyachi </string>
+
+
+    <string name="question_302A">rahbarlar</string>
+    <string name="question_302B">kofirlar</string>
+    <string name="question_302C">keyin</string>
+    <string name="question_302D">himoyachilar</string>
+    <string name="answer_302">himoyachilar</string>
+
+
+    <string name="question_303A"> uy joy</string>
+    <string name="question_303B">ayollar</string>
+    <string name="question_303C">zolimalar</string>
+    <string name="question_303D">odamlar</string>
+    <string name="answer_303">odamlar</string>
+
+    <string name="question_304A">qul</string>
+    <string name="question_304B">dushman</string>
+    <string name="question_304C">erkaklar</string>
+    <string name="question_304D">kabi</string>
+    <string name="answer_304">erkaklar</string>
+
+
+    <string name="question_305A"> kishi</string>
+    <string name="question_305B">siz ikkalangiz kabi</string>
+    <string name="question_305C">dunyo</string>
+    <string name="question_305D">mening</string>
+    <string name="answer_305">kishi</string>
+
+    <string name="question_306A">uy</string>
+    <string name="question_306B">yagona</string>
+    <string name="question_306C">rahbarlar</string>
+    <string name="question_306D">mening</string>
+    <string name="answer_306">rahbarlar</string>
+
+    <string name="question307_A">qullar </string>
+    <string name="question307_B">kimdr</string>
+    <string name="question307_C">ular</string>
+    <string name="question307_D">ayol</string>
+    <string name="answer_307">ayol</string>
+
+
+    <string name="question308_A">ayollar </string>
+    <string name="question308_B">bundan</string>
+    <string name="question308_C">u</string>
+    <string name="question308_D">sabab</string>
+    <string name="answer_308">ayollar</string>
+
+
+    <string name="question_309A">uylar</string>
+    <string name="question_309B">kofirlar</string>
+    <string name="question_309C">bir xil</string>
+    <string name="question_309D">nimada</string>
+    <string name="answer_309">kofirlar</string>
+
+    <string name="question310_A">uning </string>
+    <string name="question310_B">dushman</string>
+    <string name="question310_C">qullar</string>
+    <string name="question310_D">osha ikkitasi</string>
+    <string name="answer_310">qullar</string>
+
+
+    <string name="question311_A">qul</string>
+    <string name="question311_B">kimdir</string>
+    <string name="question311_C">qullar</string>
+    <string name="question311_D">biz</string>
+    <string name="answer_311">qul </string>
+
+
+    <string name="question_312A">kishi</string>
+    <string name="question_312B">nimaga</string>
+    <string name="question_312C">zolimlar</string>
+    <string name="question_312D">yaqin</string>
+    <string name="answer_312">zolimlar</string>
+
+
+    <string name="question_313A"> vaqtida</string>
+    <string name="question_313B">dushman</string>
+    <string name="question_313C">nima</string>
+    <string name="question_313D">...dan</string>
+    <string name="answer_313">dushman</string>
+
+    <string name="question_314A">kimdr</string>
+    <string name="question_314B">qaysi</string>
+    <string name="question_314C">shunday qilip</string>
+    <string name="question_314D">dushman</string>
+    <string name="answer_314">dushman</string>
+
+
+    <string name="question_315A"> agar</string>
+    <string name="question_315B">dunyo</string>
+    <string name="question_315C">keyin</string>
+    <string name="question_315D">qasam ichmoq</string>
+    <string name="answer_315">dunyo</string>
+
+    <string name="question_316A">uylar</string>
+    <string name="question_316B">ustida</string>
+    <string name="question_316C">tomonda</string>
+    <string name="question_316D">mening</string>
+    <string name="answer_316">uylar</string>
+
+    <string name="question317_A">kishi </string>
+    <string name="question317_B">uy</string>
+    <string name="question317_C">alloh</string>
+    <string name="question317_D">uy joy</string>
+    <string name="answer_317">uy</string>
+
+
+    <string name="question318_A">chunki </string>
+    <string name="question318_B">agar</string>
+    <string name="question318_C">yol</string>
+    <string name="question318_D">biz</string>
+    <string name="answer_318">yol</string>
+
+
+    <string name="question_319A">nimada</string>
+    <string name="question_319B">ustida</string>
+    <string name="question_319C">qasam ichmoq</string>
+    <string name="question_319D">uy joy</string>
+    <string name="answer_319">uy joy</string>
+
+    <string name="question320_A">turar joy </string>
+    <string name="question320_B">agar yoq bolsa</string>
+    <string name="question320_C">nechta</string>
+    <string name="question320_D">osha ikkitasi</string>
+    <string name="answer_320">turar joy</string>
+
+
+    <string name="selctedoption">SelctedOption</string>
+    <string name="correctanswer">CorrectAnswer</string>
+
+</resources>

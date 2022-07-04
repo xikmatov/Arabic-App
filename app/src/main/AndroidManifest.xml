@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.arabic">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Arabic">
+        <activity android:name=".Testing.TestActivity16"></activity>
+        <activity android:name=".splashActivities.TestSplash16" />
+        <activity android:name=".DictionaryActivity.Lesson16Activity" />
+        <activity android:name=".Testing.TestActivity15" />
+        <activity android:name=".splashActivities.TestSplash15" />
+        <activity android:name=".DictionaryActivity.Lesson15Activity" />
+        <activity android:name=".Testing.TestActivity14" />
+        <activity android:name=".splashActivities.TestSplash14" />
+        <activity android:name=".DictionaryActivity.Lesson14Activity" />
+        <activity android:name=".Testing.TestActivity13" />
+        <activity android:name=".splashActivities.TestSplash13" />
+        <activity android:name=".DictionaryActivity.Lesson13Activity" />
+        <activity android:name=".Testing.TestActivity12" />
+        <activity android:name=".splashActivities.TestSplash12" />
+        <activity android:name=".DictionaryActivity.Lesson12Activity" />
+        <activity android:name=".Testing.TestActivity11" />
+        <activity android:name=".splashActivities.TestSplash11" />
+        <activity android:name=".DictionaryActivity.Lesson11Activity" />
+        <activity android:name=".Testing.TestActivity10" />
+        <activity android:name=".splashActivities.TestSplash10" />
+        <activity android:name=".DictionaryActivity.LessonTenActivity" />
+        <activity android:name=".Testing.TestActivity9" />
+        <activity android:name=".splashActivities.TestSplash9" />
+        <activity android:name=".DictionaryActivity.LessonNineActivity" />
+        <activity android:name=".Testing.TestActivity8" />
+        <activity android:name=".splashActivities.TestSplash8" />
+        <activity android:name=".DictionaryActivity.LessonEightActivity" />
+        <activity android:name=".Testing.TestActivity7" />
+        <activity android:name=".splashActivities.TestSplash7" />
+        <activity android:name=".DictionaryActivity.LessonSevenActivity" />
+        <activity android:name=".Testing.TestActivity6" />
+        <activity android:name=".splashActivities.TestSplash6" />
+        <activity android:name=".DictionaryActivity.LessonSixActivity" />
+        <activity android:name=".Testing.TestActivity5" />
+        <activity android:name=".splashActivities.TestSplash5" />
+        <activity android:name=".DictionaryActivity.LesssonFiveActivity" />
+        <activity android:name=".Testing.TestActivity4" />
+        <activity android:name=".splashActivities.TestSplash4" />
+        <activity android:name=".DictionaryActivity.LessonFourthActivty" />
+        <activity android:name=".Testing.TestActivity3" />
+        <activity android:name=".splashActivities.TestSplash3" />
+        <activity android:name=".DictionaryActivity.LessonThirdActivity" />
+        <activity android:name=".Testing.TestActivity2" />
+        <activity android:name=".splashActivities.TestSplash2" />
+        <activity android:name=".DictionaryActivity.LessonSecondActivity" />
+        <activity android:name=".Testing.TestActivity" />
+        <activity android:name=".splashActivities.TestSplash" />
+        <activity android:name=".DictionaryActivity.LessonFirstActivity" />
+        <activity android:name=".LessonsActivity" />
+        <activity android:name=".splashActivities.MainSplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+    </application>
+
+</manifest>
